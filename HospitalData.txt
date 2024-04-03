@@ -1,0 +1,138 @@
+1|Mumbai Bombay Central B Y L Nair Hospital,BYL Government
+2|Mumbai Byculla Grant Medical College and J J Group of Hospitals,GMC Government
+3|Mumbai Chinchpokli Kasturba Hospital for Infectious Diseases, KHID Government
+4|Mumbai Parel KEM Hospital, KMHSI Government
+5|Mumbai Sion West LTMG College and Hospital,LTM Government
+6|Mumbai Fort Saint Georges Hospital,SGH Government
+7|Mumbai Suburban Andheri West Brahma Kumaris GHRC managing BSES MG Hospital,BKH Private
+8|Mumbai Suburban Kandivali Dr. Bharatrtna Babasaheb Ambedkar MCGH hospital, Kandiwali,BAH Government
+9|Mumbai Suburban Vile Parle West Dr. R. N. Cooper Hospital, Juhu,RNC Government
+10|Mumbai Suburban Sion East K. J. Somaiyya Hospital, KJH Private
+11|Mumbai Suburban Goregaon West Lifeline Medicare Hospitals Pvt Ltd ,LMD Private
+12|Mumbai Suburban Mulund West Platinum Hospital ,PTH Private
+13|Mumbai Suburban Chembur (East) Sushrut Hospital & Research Centre ,SRC Private
+14|Mumbai Suburban Jogeshwari East Hinduhrudaysamrat Bala Saheb Thakare MCGM Hospital ,HHSBT Government
+15|Thane Kalwa Chhatrapati Shivaji Maharaj Hospital (Rajiv Gandhi Medical College),CSM Government
+16|Thane Navi Mumbai. Nerul Dr. D. Y. Patil Hospital, Nerul, DYP Private
+17|Thane Vashi Navi Mumbai Municipal Corporation General Hospital Vashi, NMMV Government
+18|Thane Airoli Indravati Hospital & Research Centre ,IND Private
+19|Thane Mumbra-Kausa Kalsekar Hospital, KLS Private
+20|Thane Nerul (West), Navi Mumbai- Terana Sahyadri HospitalL And Research Centre ,TSH Private
+21|Thane Ghodbunder Rd Horizon Prime Hospital, HOZP Private
+22|Thane Thane V.S.G.H Civil Hospital, VSG Government
+23|Thane Thane Vedant Hospital (A Venture Of Shree Vighnaharata Health Care), VDT Private
+24|Thane Dombivali BAI RR Hospital Private
+25|Palghar Dahanu SDH 100 Dahanu,SDDP Government
+26|Raigad Alibag Civil Hospital Alibag,CHA Government
+27|Raigad PANVEL Life Line Hospital,LLH Private
+28|Raigad Kamothe MGM Medical college And Hospital, MGM Private
+29|Pune Pune Bharti Hospital And Research Centre,BHA Private
+30|Pune Pune District Hospital Pune,DHP Government
+31|Pune Talegaon Dr Bhausaheb Sardesai Talegaon Rural Hospital, DBS Private
+32|Pune Baramati Giriraj Hospital,GRH Private
+33|Pune Chinchwad Lokmanya Hospital Chinchwad,LHC Private
+34|Pune Pimpri, Padm. Dr. D. Y. Patil Medical College,Hospital & Research Centre, Plmpri, Pune - Private
+35|Pune Pune Sassoon General Hospital Pune,SSP Government
+36|Pune Pimpri, Yashwantrao Chavan Memorial Hospital, YCM Government
+37|Pune Lavale Symbiosis University hospital & research Center ,SUARC Private
+38|Pune Narhe Smt. Kashibai Navale Medical College & General Hospital ,Narhe, SKMMC Private
+39|Pune Pune Surya Hospitals Pvt Ltd. Surya Sahyadri Hospital , SPL,SPL Private
+40|Solapur Kumbhari Ashwini Rural medical College, Hospital And Research centre, Kumbhari ,|NI Private
+41|Solapur Solapur Chhatrapati Shivaji Maharaj Sarvopachar Rugnalaya Solapur,SMS Government
+42|Solapur Solapur Yashodhara Superspeciality Hospital, YSS Private
+43|Solapur Solapur Shri Markandey Solapur Sahakari Rugnalaya And Research Centre Niyamit,MSS_ [Private
+44|Solapur Solapur Gangamai Hospital,GGMH Private
+45|Satara Satara Civil Hospital, Satara ,CVH Government
+46|Satara Karad Krishna Hospital and Medical Research Centre, Karad,KHM Private
+47|Satara Karad Sahayadri Hospital, Karad,SKA Private
+48|Kolhapur Kolhapur Apple Hospitals And Research Institute Ltd,ARI Private
+49|Kolhapur Kolhapur Diamond Hospital, DSP Private
+50|Kolhapur Kadamwadi Kolhapur Dr. D. Y. Patil Medical College, Hospital & Research Institute,DYR Private
+51|Kolhapur Kolhapur RCSM Government Medical College And CPR Hopsital , Kolhapur,RCS Government
+52|Kolhapur Kaneri Siddhagiri Hospital & Research Centre,DDC Private
+53|Kolhapur Belgaon KLES DR PRABHAKAR KORE HOSPITAL & MRC,KDPKH Private
+54|Kolhapur Kolhapur Athaayu Multispecialty hospital , AMU
+55|Kolhapur Kolhapur KOLHAPUR CANCER CENTRE , KCC
+56|Kolhapur Kolhapur KPC multispecialty hospital PVT LTD , KPA
+57|Kolhapur Kolhapur SANT GAJANAN MAHARAJ RURAL HOSPITAL , SAT
+58|Kolhapur Kolhapur NIRAMAYA HOSPITAL , NRA
+59|Sangli Sangli Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli,BHM | Private
+60|Sangli Miraj Government Medical College & Hospital,GHM Government
+61|Sangli Miraj sevasadan life line super specility hospital,SLS Private
+62|Sangli Miraj Wanless Hospital, Miraj Medical Center, WAN Private
+63| Ratnagiri Ratnagiri Civil Hospital Ratnagiri,CHR Government
+64| Ratnagiri Sawarde, Chiplun Shri Vithalrao Joshi Charities Trust B K L Walawalkar Hospital Diagnostic and Private Research Centre, VIT
+65|Sindhudurg Bambolim, Goa Goa Medical College & Hospital, Bambholim,GMB Government
+66|Sindhudurg Padve SSPM Medical Collage & Lifetime Hospital,SPM Private
+67|Nashik Malegaon General Hospital Malegaon,GMG Government
+68|Nashik Nashik Dr.Vasantrao Pawar Medical College Hospital & Research Center, Private Adgaon,Nashik,VPR
+69|Nashik Nashik Namco Charitable Trust SGS Cancer Hospital ,NAM Private
+70|Nashik Dhamnagaon S.M.B.T Institute of Medical Sciences And Research Centre,SMB Private
+71|Nashik Nashik Sahyadri Specialty Hospital , Nashik,SAH Private
+72|Nashik Nashik Six Sigma Medicare & Research Ltd.,SSR Private
+73|Nashik Nashik Wockhardt hospital, WHD Private
+74|Nashik Nashik District Civil Hospital,DTH Government
+75|Dhule Dhule Govt. Medical Collage and hospital (DMER) (General Hospital Dhule),GHD Government
+76|Dhule Dhule JMF'S, A.C.P.M. Medical College & Hospital, Dhule,JMFS Private
+77|Dhule Dhule Niramay Hospital, NRH Private
+78|Dhule Dhule Seva Superspecialty And Critical Care Centre ,SSC Private
+79|Dhule Dhule Shree Vighnaharta Superspecialty hospital, Trauma & Crtical care center,SVG Private
+80|Dhule Dhule Siddheshwar Hospital,SDD Private
+81|Jalgaon Jalgaon Civil Hospital Jalgaon,CHJ Government
+82|Jalgaon Jalgaon DR. Ulhas patil Medical college & hospital, jalgaon,UPM Private
+83|Ahmadnagar Ahmadnagar Anand Rishiji Hospital And MRC,,MRC Private
+84|Ahmadnagar Ahmadnagar Asian Noble Hospital Pvt Ltd, NHR Private
+85|Ahmadnagar Ahmadnagar Civil Hospital Anmednagar,CAD Government
+86|Ahmadnagar Ahmadnagar PDVVP Foundations Dr Vikhe Patil Memorial Hospital And Medical College,PDF {Private
+87|Ahmadnagar Loni Pravranagar Pravara Rural Hospital, Loni, ,PRD Private
+88|Ahmadnagar Ahmadnagar Saideep Healthcare & Research Pvt Ltd ,SHRA Private
+89|Ahmadnagar Shirdi Shri Saibaba Hospital , Shirdi,SSB Private
+90|Ahmadnagar Kopargaon Shree Janardhan Swami Hospital,SJSH Private
+91|Nandurbar Nandurbar District Hospital Nandurbar,ClV Government
+92|Aurangabad Aurangabad Govt medical college and Hospital Aurangabad,GMH Government
+93|Aurangabad Aurangabad DR HEDGEWAR HOSPITAL,DRH Private
+94|Aurangabad Aurangabad Mahatma Gandhi Mission Hospital, MHO Private
+95|Aurangabad Aurangabad MIT Hospital & Research Institute, MIT Private
+96|Aurangabad Auranagabd MMARI Kamalnayan Bajaj Hospital , MKB,MKB Private
+97|Aurangabad Auranagabad Seth Nandalal Dhoot Hospital ,SND Private
+98|Aurangabad Aurangabad United Ciigma Hospital(United Ciigma Institute Of Medical Sciences Pvt. Private Ltd.),UCH
+99|Jalna Old Jalna Deepak Hospital, DKH Private
+100|Jalna Jalna District Hospital Jalna,DHJ Government
+101|Jalna Jalna Vivekanad Hospitl, Jalna, VIH Private
+102|Jalna Jalna Jalna Hospial,JALHO Private
+103|Parbhani Parbhani Civil Hospital Parbhani,CHP Government
+104|Parbhani Parbhani Dr.Prafulla Patil Multispeciality Hospital Pvt Ltd.,PPHOP Private
+105|Hingoli Hingoli District Hospital Hingoli,DHH Government
+106|Beed Beed Disrict Hospital Beed ( Civil Hospital), DHL Government
+107|Beed Ambejogai SRTR Medical College Ambejogai,SRT Government
+108|Osmanabad Osmanabad District Hospital Osmanabad,DHO Government
+109|Latur Latur Vilasrao Deshmukh Government Institute of medical science, MCL Government
+110|Latur Latur Vivekanand Hospital Run By Vivekanand Medical Foundation & Research Private Centre, VIV
+111|Latur Latur Yashwantrao Chavan Rural Hospital, Latur.,YTR Private
+112|Nanded Vishnupuri Dr. Shankarrao Chavan Government Medical College and Hospital,GGS Government
+113|Nanded Nanded Shri Guru Govind Singji Memorial Civil Hospital, SGGSM Government
+114|Amravati Amrawati General Hospital - Amravati,GHA Government
+115|Amravati Amrvarti Dr.Panjabrao Deshmukh Hospital, Amravati,PDH Private
+116|Amravati Amravati Best Mulispecility hospital, BSMHA Private
+117|Amravati Amravati Rigional refferal services hospital (Super speciality Hospital),RRS Government
+118|Akola Akola Goverment Medical College and Hospital Akola,GOV Government
+119|Buldhana Buldana District General Hospital Buldana,DHB Government
+120|Buldana General Hospital Khamgaon General Hospital,Knamgaon,GHK Government
+121|Washim Washim District Hospital, Washim,DHW Government
+122|Yavatmal Yavatmal Sanjeevan Multispeciality Hospital and Reasearch Institute ,SSMR Private
+123|Yavatmal Yavatmal Shri Vasantrao Naik Govenment Medical College & Hospital ,VNG Government
+124|Nagpur Nagpur Govt Medical College and Super Specility Hospital Nagpur,CSS Government
+125|Nagpur Nagpur Govt.Medical College Hospital Nagpur,GMN Government
+126|Nagpur Nagpur Indira Gandhi Goverment Medical College and Genreral Hospital,|GG Government
+127|Nagpur Nagpur Lata Mangeshkar Hospital,LMH Private
+128|Nagpur Jamtha Suretech Hospital And Research Centre Ltd.(Polytrauma,Cardiology And Private Superspecialty ),STC
+129|Nagpur Wanadongri Nagpur Shalinitai Meghe Hospital& Research Centre, Nagpur ,SSMHRC Private
+130|Nagpur Nagpur AIIMS Hospital , Mihan Nagar, AHMNN Government
+131|Wardha Sawangi Meghe Acharya Vinoba Bhave Rural Hospital, Sawangi ,AVB Private
+132|Wardha Sewagram-wardha Road Kasturba Hospital,KAS Government
+133|Bhandara Bhandara District Hospital Bhandara,DHD Government
+134|Gondia Gondia Kuwar Tilaksingh General Hospital,KUW Government
+135|Chandrapur Chandrapur District General Hospital Chandrapur,DHC Government
+136|Chandrapur Chandrapur Wasade Hospital, WAD Private
+137|Chandrapur Chandrapur Christ Hospital,CSTL Private
+138|Gadchiroli Gadchiroli Disctrict Hospital, Gadchiroli,DHG Government
